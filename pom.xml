@@ -78,7 +78,7 @@
     </dependency>
     <dependency>
       <groupId>com.ibm.bamoe</groupId>
-      <artifactId>bamoe-ilmt-compliance-quarkus-pamoe</artifactId>
+      <artifactId>bamoe-ilmt-compliance-quarkus-dmoe</artifactId>
     </dependency>
   </dependencies>
   <build>
